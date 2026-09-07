@@ -1,0 +1,13 @@
+name: lab7env
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pandas
+  - requests
+  - pytest
+  - pip
+  - pip:
+      - plotly

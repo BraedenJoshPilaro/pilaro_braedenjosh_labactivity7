@@ -1,0 +1,19 @@
+WORLD BANK LIFE EXPECTANCY ANALYSIS
+==================================================
+
+Summary statistics:
+    Country  First_Year_Value  Latest_Year_Value  Mean  Minimum  Maximum  Observations  Change
+  Indonesia             66.29              71.15 68.51    65.52    71.15            24    4.85
+   Malaysia             72.73              76.66 74.94    72.73    76.66            24    3.92
+Philippines             67.79              69.83 68.85    66.68    70.10            24    2.04
+  Singapore             77.95              83.10 81.42    77.95    83.60            24    5.15
+   Thailand             71.20              76.41 74.88    71.20    77.61            24    5.21
+   Viet Nam             72.75              74.59 73.74    72.75    75.38            24    1.84
+
+Interpretation:
+1. Singapore had the highest latest available life expectancy in the selected data at 83.10 years.
+2. Thailand recorded the largest change across the selected period at 5.21 years.
+3. Differences among countries can be examined by hovering over lines and data points in the HTML chart.
+
+Source: World Bank Indicators API
+Indicator: SP.DYN.LE00.IN - Life expectancy at birth (years)

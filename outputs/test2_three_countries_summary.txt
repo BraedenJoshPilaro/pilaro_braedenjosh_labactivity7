@@ -1,0 +1,16 @@
+WORLD BANK LIFE EXPECTANCY ANALYSIS
+==================================================
+
+Summary statistics:
+    Country  First_Year_Value  Latest_Year_Value  Mean  Minimum  Maximum  Observations  Change
+  Indonesia             68.36              71.15 69.44    67.45    71.15            14    2.78
+Philippines             68.88              69.83 69.30    66.68    70.10            14    0.95
+   Viet Nam             73.61              74.59 74.12    73.61    75.38            14    0.98
+
+Interpretation:
+1. Viet Nam had the highest latest available life expectancy in the selected data at 74.59 years.
+2. Indonesia recorded the largest change across the selected period at 2.78 years.
+3. Differences among countries can be examined by hovering over lines and data points in the HTML chart.
+
+Source: World Bank Indicators API
+Indicator: SP.DYN.LE00.IN - Life expectancy at birth (years)
